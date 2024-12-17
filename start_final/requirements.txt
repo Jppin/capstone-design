@@ -9,3 +9,5 @@ langchain-mongodb
 bs4
 langgraph
 typing_extensions
+pytesseract
+pillow
